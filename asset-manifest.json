@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textAI_react_app/static/css/main.abd64e84.css",
+    "main.js": "/textAI_react_app/static/js/main.fc4ace5c.js",
+    "static/js/787.b701888c.chunk.js": "/textAI_react_app/static/js/787.b701888c.chunk.js",
+    "index.html": "/textAI_react_app/index.html",
+    "main.abd64e84.css.map": "/textAI_react_app/static/css/main.abd64e84.css.map",
+    "main.fc4ace5c.js.map": "/textAI_react_app/static/js/main.fc4ace5c.js.map",
+    "787.b701888c.chunk.js.map": "/textAI_react_app/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.fc4ace5c.js"
+  ]
+}
